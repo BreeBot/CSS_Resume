@@ -1,0 +1,59 @@
+/* your CSS from an earlier exercise here  */
+
+body {
+  color:rgb(255, 0, 212);
+  background-color:aquamarine;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  font-style: Italic;
+  color:rgb(43, 153, 226);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+img {
+  border-style: solid;
+  border-color: rgb(17, 0, 255);
+  border-width: 10px;
+  border-left: 250;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 500; 
+}
+
+.update {
+  font-size: 25px;
+  font-style: Italic;
+  font-weight: bold;
+  color:rgb(226, 43, 58);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.info {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  color:rgb(226, 43, 186);
+}
+
+
+
+a {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+  color:rgb(70, 43, 226);
+}
+
+.selected {
+  border-style: solid;
+  border-color:red;
+  border-width: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
